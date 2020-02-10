@@ -9,6 +9,14 @@
     margin: 0 auto;
 }
 
+.back{
+    background-color: #f5f5f5;
+    padding: 20px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    margin: 10px 0
+}
+
 .square-one{
     border: 1px solid red;
     width: 100px;
